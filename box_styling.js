@@ -43,4 +43,4 @@
 		}
 	}
 
-customElements.define("com-sap-sample-coloredbox-styling", BoxStylingPanel);
+customElements.define("com-sap-sample-box-styling", BoxStylingPanel);
