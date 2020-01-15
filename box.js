@@ -38,5 +38,5 @@
 		}
 	}
 
-	customElements.define("com-sap-sample-coloredbox", Box);
+	customElements.define("com-sap-sample-box", Box);
 })();
